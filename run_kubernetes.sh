@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=gauravalugh/ml-microservice:v2
+dockerpath=gauravalugh/m1-microservice:v2
 
 # Step 2
 # Run the Docker Hub container with kubernetes
